@@ -1,0 +1,8 @@
+---
+name: MultiVersion
+version: 0.0.1
+author: xPrim69x
+description: Allows players with other minecraft versions to join your server.
+main: xPrim69x\MultiVersion\Main
+api: 3.15.4
+...
