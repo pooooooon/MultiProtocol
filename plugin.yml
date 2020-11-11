@@ -4,5 +4,5 @@ version: 0.0.1
 author: xPrim69x
 description: Allows players with other minecraft versions to join your server.
 main: xPrim69x\MultiVersion\Main
-api: 3.15.4
+api: [3.0.0 - 4.0.0]
 ...
